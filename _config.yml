@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandros (Alex) Fakos"
+title                    : "Alexandros Fakos"
 title_separator          : "-"
 name                     : &name "Alexandros Fakos"
 description              : &description "personal description"
