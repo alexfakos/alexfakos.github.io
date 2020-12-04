@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is a website that includes reviews of books I read and is mainly for current and former students. 
+Welcome!
+
+This website includes book reviews, news articles, and other material that I found interesting or is relevant for my Business Strategy class. The site's intended audience is current and former students, but anyone else is welcome, as well. 
 
