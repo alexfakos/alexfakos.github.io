@@ -2,6 +2,9 @@
 main:
   - title: "About"
     url: /about/
+    
+  - title: "CV"
+    url: /cv/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -11,12 +14,12 @@ main:
     
   - title: "Books"
     url: /books/
+    
+  - title: "Articles"
+    url: /articles/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
