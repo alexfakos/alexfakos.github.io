@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexandros Fakos"
+title                    : "Alex Fakos"
 title_separator          : "-"
-name                     : &name "Alexandros Fakos"
+name                     : &name "Alex Fakos"
 description              : &description "This website hosts book reviews from Alex Fakos for mainly addressed to current and former students."
 url                      : https://alexfakos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
