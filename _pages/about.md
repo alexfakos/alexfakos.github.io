@@ -10,5 +10,9 @@ redirect_from:
 
 Welcome!
 
-This website includes book reviews, news articles, and other material that I found interesting or is relevant for my Business Strategy class. The site's intended audience is current and former students, but anyone else is welcome, as well. 
+This is my research website. My most recent articles are posted on my SSRN page below.
+
+{% include base_path %}
+[Author page on SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1709596)
+
 
